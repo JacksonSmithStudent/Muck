@@ -1,15 +1,12 @@
 fileFormatVersion: 2
 guid: 4dd1e3d89366b804bae3dd5e1689e6da
-timeCreated: 1627067085
-licenseType: Free
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
     second: SpearTip
   externalObjects: {}
-  usedFileIDs: []
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -26,9 +23,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,13 +60,30 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -129,7 +146,7 @@ TextureImporter:
         - {x: -5.999992, y: -42.5}
         - {x: -4.999992, y: -55.5}
         - {x: -2.999992, y: -88.5}
-        - {x: 7.629395E-06, y: -89.5}
+        - {x: 0.000007629395, y: -89.5}
         - {x: 3.000007, y: -89.5}
         - {x: 11.00001, y: -79.5}
         - {x: 16.00001, y: -65.5}
@@ -139,22 +156,23 @@ TextureImporter:
       spriteID: 2cfeca4dfc2a41768cf74836b5fcd8b6
       internalID: 21300000
       vertices: []
-      indices:
+      indices: 
       edges: []
       weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID:
+    spriteID: 
     internalID: 0
     vertices: []
-    indices:
+    indices: 
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag:
+    nameFileIdTable:
+      SpearTip: 21300000
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

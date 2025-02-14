@@ -162,7 +162,7 @@ public class CurrentSettings : MonoBehaviour
     {
         SaveManager.Instance.state.textureQuality = i;
         SaveManager.Instance.Save();
-        QualitySettings.masterTextureLimit = 3 - i;
+        QualitySettings.globalTextureMipmapLimit = 3 - i;
         MonoBehaviour.print("updating texture quality");
     }
 
