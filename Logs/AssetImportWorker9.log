@@ -221,3 +221,103 @@ Received Import Request.
 Start importing Assets/Texture2D/NightSword.png using Guid(241313722934c3d4b99a8a50f6fc53f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e61b2ef4ed76a2401ee12fa6e357d6') in 0.036882 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 616.622643 seconds.
+  path: Assets/Texture2D/InventorySlot.png
+  artifactKey: Guid(e2ab7c798a9aa284b98504ecde82de84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/InventorySlot.png using Guid(e2ab7c798a9aa284b98504ecde82de84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9462c4c6499e213c94ec35730c57d83') in 0.040261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Texture2D/InventorySlotOverlay.png
+  artifactKey: Guid(4383b1c7189c2ae45a57d7763258142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/InventorySlotOverlay.png using Guid(4383b1c7189c2ae45a57d7763258142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2c3fcbeed2ab16b24c2af07931d93e') in 0.032955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Texture2D/InventoryUpper.png
+  artifactKey: Guid(d1a3e8a6cad499f4c9148134b988289f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/InventoryUpper.png using Guid(d1a3e8a6cad499f4c9148134b988289f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3295d5e3b6696153138d144238a726') in 0.036433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 23.408138 seconds.
+  path: Assets/Texture2D/Screenshot_2014-07-19_15.24.57.0.png
+  artifactKey: Guid(05b571278614aaf42abc573db3de0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Screenshot_2014-07-19_15.24.57.0.png using Guid(05b571278614aaf42abc573db3de0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c3e0b2aa3efa9dfaf8b75b4267a53f') in 0.066156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 428.974293 seconds.
+  path: Assets/Nicrom/PolyPacks/Wind/Assets/Models/LPW_Rock_Boulder_A1_01.fbx
+  artifactKey: Guid(f3a70418971d85f47a436c1493b944d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nicrom/PolyPacks/Wind/Assets/Models/LPW_Rock_Boulder_A1_01.fbx using Guid(f3a70418971d85f47a436c1493b944d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4bdd62e0482fe1919a66f40e1bf9f7f') in 0.093599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ScriptableObject/Items/RockProjectileRoll.asset
+  artifactKey: Guid(6a3921fc6313075498aa2b3e7bdd4c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObject/Items/RockProjectileRoll.asset using Guid(6a3921fc6313075498aa2b3e7bdd4c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c1ce80ac39a73171a59c8e784617ca') in 0.109161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Texture2D/RockTexture.png
+  artifactKey: Guid(888d0446a05d401468059256337db8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/RockTexture.png using Guid(888d0446a05d401468059256337db8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5590d7e87683e8cee697aca8bf8d67') in 0.026007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ScriptableObject/Loot/RockPile.asset
+  artifactKey: Guid(e93e8dd4ee8ccd544922e881fc566a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObject/Loot/RockPile.asset using Guid(e93e8dd4ee8ccd544922e881fc566a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523d3b45c27ba9e566ae50f9f379c178') in 0.012124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ScriptableObject/Noise/RockNoise.asset
+  artifactKey: Guid(fc77cbd34fe894247b242ba3d15fbd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObject/Noise/RockNoise.asset using Guid(fc77cbd34fe894247b242ba3d15fbd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff949e1055e4a125cbeff6eb1ea5cc3') in 0.008910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ScriptableObject/Items/RockProjectile.asset
+  artifactKey: Guid(d927b58b8512bc241afd48be3f3845b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObject/Items/RockProjectile.asset using Guid(d927b58b8512bc241afd48be3f3845b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd12b12d3839ef9ff84e00e9d66de366') in 0.046659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 73
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ScriptableObject/Items/Rock.asset
+  artifactKey: Guid(a285926ce19af6a42a24435f8add0a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObject/Items/Rock.asset using Guid(a285926ce19af6a42a24435f8add0a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ea34cef7def04b217267133bfb07fb') in 0.001507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Texture2D/RockIcon.png
+  artifactKey: Guid(3781d24b5bf86c443a8c7e4e45861d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/RockIcon.png using Guid(3781d24b5bf86c443a8c7e4e45861d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839cdff43d0930fcaa65fcd4cd00c748') in 0.016434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
